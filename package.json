@@ -1,0 +1,27 @@
+{
+    "name": "chives-api",
+    "version": "2.2.5",
+    "repository": "https://github.com/MinerGreggy/chives-api.git",
+    "bugs": "https://github.com/MinerGreggy/chives-api/issues",
+    "license": "GPL-3.0",
+    "dependencies": {
+        "json-bigint": "^1.0.0",
+        "ws": "^7.5.0"
+    },
+    "main": "index.js",
+    "engines": {
+        "node": ">=12.0.0"
+    },
+    "description": "chives-Api",
+    "homepage": "https://github.com/MinerGreggy/chives-api#readme",
+    "directories": {
+        "lib": "lib"
+    },
+    "keywords": [
+        "chives",
+        "blockchain",
+        "chiadashboard",
+        "chivesdashboard"
+    ],
+    "author": "MinerGreggy"
+}
